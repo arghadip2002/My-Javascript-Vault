@@ -47,7 +47,7 @@ Contributions are welcome to make this repository even more useful! If you'd lik
 - Submit a pull request for review.
 
 ## 📄 License
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code in your own projects. See the LICENSE file for details.
+This repository is licensed under the [MIT License](LICENSE.txt). Feel free to use the code in your own projects. See the LICENSE file for details.
 
 ## 📧 Contact
 For any questions, suggestions, or feedback, feel free to reach out:
