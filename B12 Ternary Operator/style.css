@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5em;
+    margin-left: 1em;
+}
+
+#mySubmit{
+    background-color: #007BFF; /* Primary blue color */
+  color: white; /* Text color */
+  border: none; /* No border */
+  border-radius: 5px; /* Rounded corners */
+  padding: 10px 20px; /* Padding for size */
+  font-size: 1em; /* Font size */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s ease; /* Smooth color transition */
+  margin-top: 1em;
+  margin-left: 0.5em;
+}
+
+#mySubmit:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+input[type="checkbox"], input[type="radio"] {
+    transform: scale(2); /* Adjust the scale factor as needed */
+}
