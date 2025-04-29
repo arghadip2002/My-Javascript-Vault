@@ -52,6 +52,6 @@ element.style.backgroundColor = "orange";
 const fruitsAll = document.querySelectorAll(".fruits"); // ".className" or "tagname"
 console.log(element);
 
-fruitsAll[0].style.backgroundColor = "red";
+fruitsAll[0].style.backgroundColor = "green";
 
 console.log(fruitsAll);
