@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+#myButtons {
+    font-size: 2.5rem;
+    margin: 10px;
+    background-color: rgb(255, 50, 50);
+}
+
+/* .enabled{
+    background-color: rgb(28, 142, 255);
+    color: white;
+}*/
+
+.enabled{
+    background-color: rgb(28, 142, 255) !important;
+    color: white;
+}
+
+.disabled{
+    background-color: rgb(189, 255, 35) !important;
+    color: rgb(255, 0, 0);
+}
