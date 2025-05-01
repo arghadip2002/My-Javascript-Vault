@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>My Website</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <input
+      type="text"
+      id="pokemonName"
+      placeholder="Enter the name of the Pokemon"
+    />
+    <button onclick="fetchData()">Fetch Pokemon</button>
+    <h1 id="name"></h1>
+    <img src="" alt="pokemonImg" id="pokemonImg" style="display: none" />
+    <div class="card">
+      <p id="ability"></p>
+      <p id="type"></p>
+      <p id="weight"></p>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>

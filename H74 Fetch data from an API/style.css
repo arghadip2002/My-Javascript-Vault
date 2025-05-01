@@ -1,0 +1,38 @@
+body{
+    font-size: 2rem;
+    text-align: center;
+}
+
+#pokemonImg {
+    width: 250px; /* Adjust as needed */
+    height: auto; /* Keeps aspect ratio */
+    display: block;
+    margin: 0 auto; /* Centers the image */
+}
+
+#pokemonName {
+    width: 300px; /* Larger input field */
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #4CAF50; /* Adds a stylish border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+button {
+    padding: 12px 20px;
+    font-size: 16px;
+    background-color: #4CAF50; /* Professional green color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049; /* Slightly darker hover effect */
+}
+
+.card{
+    text-align: left;
+    margin-left: 50px;
+}
