@@ -1,4 +1,5 @@
 # My JavaScript Vault
+=======
 
 Welcome to **My JavaScript Vault**! This repository is a comprehensive collection of JavaScript code samples, exercises, and mini-projects designed to enhance your programming skills. It serves as a personal code base to store and organize valuable JavaScript concepts and techniques.
 
@@ -53,3 +54,5 @@ This repository is licensed under the [MIT License](LICENSE.txt). Feel free to u
 For any questions, suggestions, or feedback, feel free to reach out:
 - Email: [mrarghadipofficial@gmail.com](mailto:mrarghadipofficial@gmail.com)
 - GitHub: [arghadip2002](https://github.com/arghadip2002)
+
+=======
