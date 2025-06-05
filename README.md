@@ -1,6 +1,5 @@
-## My Javascript Vault
-=======
 # My JavaScript Vault
+=======
 
 Welcome to **My JavaScript Vault**! This repository is a comprehensive collection of JavaScript code samples, exercises, and mini-projects designed to enhance your programming skills. It serves as a personal code base to store and organize valuable JavaScript concepts and techniques.
 
